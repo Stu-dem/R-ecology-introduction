@@ -5,7 +5,7 @@ date: "28 July 2018"
 output: html_document
 ---
 
-# Introduction to R
+# 1. Introduction to R
 ## What is R and RStudio?
 The term "R" can refer to both a programming language (a derrivative of the "S" language) and the software console which is used to compile and interpret the code written in the "R" language. [R](https://cran.r-project.org/) must be installed first before [RStudio](https://www.rstudio.com/) can be installed. RStudio is a piece of software known as an integrated development environment (IDE) which expands on the basic R console. For help understanding RStudio have a look at this [cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf).
 
